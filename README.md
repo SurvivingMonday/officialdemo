@@ -5,6 +5,7 @@ Official Demo of 2nd place of Google Hackathon Ann Arbor - honeypot
 Dated April 12th, 2012
 
 Hardcoded by the Surviving Monday team: Follow us :)
+
 Eugene Goh (Team Captain)   - https://github.com/vanblaze
 Girish Hari                 - https://github.com/girishvk
 Pauline Low                 - https://github.com/lpuiling
